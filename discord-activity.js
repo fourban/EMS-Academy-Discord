@@ -1,3 +1,4 @@
+/* EMS Academy Discord Activity bridge; re-published to trigger GitHub Pages. */
 /**
  * EMS Academy Discord Activity bridge.
  * Uses only Discord's Embedded App SDK handshake; no user profile, answers,
